@@ -1,4 +1,4 @@
-# Collaborative-Filtering-Recommender-Systems
+# Collaborative Filtering Recommender Systems
 
 <h4> The goal of a collaborative filtering recommender system is to generate two vectors: For each user, a 'parameter vector' that embodies the movie tastes of a user. 
   <br/>
