@@ -1,4 +1,4 @@
-<h1 align='center'> COLLABORATIVE FILTERING MOVIE RECOMMENDER SYSTEMS </h1>
+<h1 align='center'> MOVIE RECOMMENDER SYSTEM USING COLLABORATIVE FILTERING </h1>
 
 <h4 align='center'> Designed to generate user parameter vectors and movie feature vectors, which are then used to estimate a user's movie rating via their dot product plus a bias term </h4>
 
