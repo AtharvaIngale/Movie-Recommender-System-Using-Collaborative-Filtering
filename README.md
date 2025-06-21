@@ -51,10 +51,6 @@ The design of this system is centered around using these vectors to estimate a u
 
 <hr>
 
-
-
-<hr>
-
 ### <a name="author">🔗 Author </a>
 [Atharva Ingale](https://github.com/AtharvaIngale)
 
